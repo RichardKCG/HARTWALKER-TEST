@@ -1,0 +1,1 @@
+Testing grid and reponsivity as in https://hartwalkerspirits.com/ "gallery" section.
